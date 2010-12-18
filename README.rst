@@ -2,6 +2,7 @@
 IGTableViewWithKeyboardDeletingDelegateMethod
 =============================================
 
+IGTableViewWithKeyboardDeletingDelegateMethod
 
 ----
 
